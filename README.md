@@ -26,3 +26,6 @@ API.header=headerhash5465456454654
 The deployment uses two connect clusters. One for the Camel connector, second cluster for this ChatBot connector. It is possible to build a connector image containg both plugins and rgister them separately. I just wanted to try cooperation of two connect clusters.
 
 
+
+![Example conversation](https://i.imgur.com/5sKRL9x.png
+)
