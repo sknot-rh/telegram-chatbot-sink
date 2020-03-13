@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: brainshop-credentials
+type: Opaque
+data:
+  brainshop-credentials.properties: credsInBase64
