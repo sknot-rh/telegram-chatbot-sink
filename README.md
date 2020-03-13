@@ -6,7 +6,7 @@ The functionality is demonstrated using another source connector - Camel Telegra
 Camel connector reads a messages from the chat and this connector replies with bot message.
 
 
-You have co customize `00` secret files. File 00-brainshop-creds.yaml has to contain 
+You have co customize `00` secret files.
 The properties file for Telegram should look like this:
 
 ```properties
